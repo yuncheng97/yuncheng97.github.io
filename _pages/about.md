@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,7 +24,7 @@ Please feel free to contact me via email at yunchengjiang@link.cuhk.edu.cn.
 - [2023.05] Two papers got accepted by MICCAI 2023 (**early accepted: top 13%**)
 
 ## Selected publications
-<table id="tbPublications" width="100%" frame=void>
+<table width="100%" frame=void>
 			<td width="150">
 				<img src="/images/bibm24_v2idetr.png" width="150px" height="100px" style="box-shadow: 4px 4px 8px #888">
 			</td>		
@@ -39,7 +38,6 @@ Please feel free to contact me via email at yunchengjiang@link.cuhk.edu.cn.
 					[<a href="https://arxiv.org/abs/2408.10067" target="_blank">paper</a>]
 					[<a href="https://github.com/yuncheng97/ASTR" target="_blank">code</a>]
  				</p>	
-			</td>
 </table>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=dbeaf7&w=a&t=tt&d=U1uwZNyTBlYcei4B1Kub0S17wuX6Jv0ulXMCoQYECrU&co=ffffff&cmo=db541e&ct=0a0a0a'></script>
