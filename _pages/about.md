@@ -25,8 +25,8 @@ Please feel free to contact me via email at yunchengjiang@link.cuhk.edu.cn.
 - [2023.05] Two papers got accepted by MICCAI 2023 (**early accepted: top 13%**)
 
 ## Selected publications
-<table id="tbPublications" width="100%">
-			<td width="100">
+<table id="tbPublications" width="100%" frame=void>
+			<td width="150">
 				<img src="/images/bibm24_v2idetr.png" width="150px" height="100px" style="box-shadow: 4px 4px 8px #888">
 			</td>		
 			<td>
@@ -40,7 +40,6 @@ Please feel free to contact me via email at yunchengjiang@link.cuhk.edu.cn.
 					[<a href="https://github.com/yuncheng97/ASTR" target="_blank">code</a>]
  				</p>	
 			</td>
-		</tr>
 </table>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=dbeaf7&w=a&t=tt&d=U1uwZNyTBlYcei4B1Kub0S17wuX6Jv0ulXMCoQYECrU&co=ffffff&cmo=db541e&ct=0a0a0a'></script>
