@@ -1,10 +1,3 @@
----
-permalink: /
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 ## About Me
 My name is Yuncheng Jiang. I am currently the final year of PhD supervised by [Prof. Zhen Li](https://scholar.google.com.hk/citations?user=0TTt3QsAAAAJ&hl=zh-CN) at the [DeepBitLab](https://mypage.cuhk.edu.cn/academics/lizhen/), [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en).
 Prior to that, I got my academic Bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/).
@@ -25,19 +18,20 @@ Please feel free to contact me via email at yunchengjiang@link.cuhk.edu.cn.
 
 ## Selected publications
 <table width="100%" frame=void>
-			<td width="150">
-				<img src="/images/bibm24_v2idetr.png" width="150px" height="100px" style="box-shadow: 4px 4px 8px #888">
-			</td>		
-			<td>
-				<b>Let Video Teaches You More: Video-to-Image Knowledge Distillation using DEtection TRansformer for Medical Video Lesion Detection</b></br>
-				<p></p>
-				<b>Yuncheng Jiang*</b>, Zixun Zhang*, Jun Wei, Chun-Mei Feng, Guanbin Li, Xiang Wan, Shuguang Cui, Zhen Li.</br>
-				<em>IEEE International Conference on Bioinformatics and Biomedicine (<b>BIBM</b>), 2024.</em>
-				<p></p>
-				<p>
-					[<a href="https://arxiv.org/abs/2408.10067" target="_blank">paper</a>]
-					[<a href="https://github.com/yuncheng97/ASTR" target="_blank">code</a>]
- 				</p>	
+	<tr>
+	<td width="150">
+		<img src="/images/bibm24_v2idetr.png" width="150px" height="100px" style="box-shadow: 4px 4px 8px #888">
+	</td>		
+	<td>
+		<b>Let Video Teaches You More: Video-to-Image Knowledge Distillation using DEtection TRansformer for Medical Video Lesion Detection</b></br>
+		<p></p>
+		<b>Yuncheng Jiang*</b>, Zixun Zhang*, Jun Wei, Chun-Mei Feng, Guanbin Li, Xiang Wan, Shuguang Cui, Zhen Li.</br>
+		<em>IEEE International Conference on Bioinformatics and Biomedicine (<b>BIBM</b>), 2024.</em>
+		<p></p>
+		<p>
+			[<a href="https://arxiv.org/abs/2408.10067" target="_blank">paper</a>]
+			[<a href="https://github.com/yuncheng97/ASTR" target="_blank">code</a>]
+	</tr>
 </table>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=dbeaf7&w=a&t=tt&d=U1uwZNyTBlYcei4B1Kub0S17wuX6Jv0ulXMCoQYECrU&co=ffffff&cmo=db541e&ct=0a0a0a'></script>
