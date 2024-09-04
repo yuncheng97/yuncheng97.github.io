@@ -26,10 +26,8 @@ Please feel free to contact me via email at yunchengjiang@link.cuhk.edu.cn.
 
 ## Selected publications
 <table id="tbPublications" width="100%">
-  <body>
-    		<tr>
 			<td width="100">
-				<img src="/images/bibm24_v2idetr.png" width="285px" style="box-shadow: 4px 4px 8px #888">
+				<img src="/images/bibm24_v2idetr.png" width="150px" height="100px" style="box-shadow: 4px 4px 8px #888">
 			</td>		
 			<td>
 				<b>Let Video Teaches You More: Video-to-Image Knowledge Distillation using DEtection TRansformer for Medical Video Lesion Detection</b></br>
@@ -43,10 +41,6 @@ Please feel free to contact me via email at yunchengjiang@link.cuhk.edu.cn.
  				</p>	
 			</td>
 		</tr>
-		<tr>&nbsp</tr>
-	    <tr>&nbsp</tr>
-	    <tr>&nbsp</tr>
-	</tbody>
 </table>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=dbeaf7&w=a&t=tt&d=U1uwZNyTBlYcei4B1Kub0S17wuX6Jv0ulXMCoQYECrU&co=ffffff&cmo=db541e&ct=0a0a0a'></script>
