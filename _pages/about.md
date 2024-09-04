@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 ## About Me
-My name is Yuncheng Jiang. I am currently the final year of PhD supervised by [Prof. Zhen Li](https://scholar.google.com.hk/citations?user=0TTt3QsAAAAJ&hl=zh-CN) at the [**DeepBitLab**](https://mypage.cuhk.edu.cn/academics/lizhen/), [**The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)**](https://www.cuhk.edu.cn/en).
-Prior to that, I got my academic Bachelor's degree at [**University of Electronic Science and Technology of China (UESTC)**](https://en.uestc.edu.cn/).
+My name is Yuncheng Jiang. I am currently the final year of PhD supervised by [Prof. Zhen Li](https://scholar.google.com.hk/citations?user=0TTt3QsAAAAJ&hl=zh-CN) at the [DeepBitLab](https://mypage.cuhk.edu.cn/academics/lizhen/), [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en).
+Prior to that, I got my academic Bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/).
 
 My research interests mainly lie in Computer Vision and it's application in Video Recognition and Medical Image Analysis.
 Currently, I am mainly focusing on AI for Medical, including developing medical foundation models and large multimodal models. I hope to design algorithms that are not only powerful but also explainable and trustworthy.
@@ -25,6 +25,29 @@ Please feel free to contact me via email at yunchengjiang@link.cuhk.edu.cn.
 - [2023.05] Two papers got accepted by MICCAI 2023 (**early accepted: top 13%**)
 
 ## Selected publications
+<table id="tbPublications" width="100%">
+  <body>
+    		<tr>
+			<td width="306">
+				<img src="/images/bibm24_v2idetr.png" width="285px" style="box-shadow: 4px 4px 8px #888">
+			</td>		
+			<td>
+				<b>Let Video Teaches You More: Video-to-Image Knowledge Distillation using DEtection TRansformer for Medical Video Lesion Detection</b></br>
+				<p></p>
+				<b>Yuncheng Jiang*</b>, Zixun Zhang*, Jun Wei, Chun-Mei Feng, Guanbin Li, Xiang Wan, Shuguang Cui, Zhen Li.</br>
+				<em>IEEE International Conference on Bioinformatics and Biomedicine (<b>BIBM</b>), 2024.</em>
+				<p></p>
+				<p>
+					[<a href="https://arxiv.org/abs/2408.10067" target="_blank">paper</a>]
+					[<a href="https://github.com/yuncheng97/ASTR" target="_blank">code</a>]
+ 				</p>	
+			</td>
+		</tr>
+		<tr>&nbsp</tr>
+	    <tr>&nbsp</tr>
+	    <tr>&nbsp</tr>
+	</tbody>
+</table>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=dbeaf7&w=a&t=tt&d=U1uwZNyTBlYcei4B1Kub0S17wuX6Jv0ulXMCoQYECrU&co=ffffff&cmo=db541e&ct=0a0a0a'></script>
 
