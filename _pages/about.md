@@ -28,7 +28,7 @@ Please feel free to contact me via email at yunchengjiang@link.cuhk.edu.cn.
 <table id="tbPublications" width="100%">
   <body>
     		<tr>
-			<td width="306">
+			<td width="100">
 				<img src="/images/bibm24_v2idetr.png" width="285px" style="box-shadow: 4px 4px 8px #888">
 			</td>		
 			<td>
