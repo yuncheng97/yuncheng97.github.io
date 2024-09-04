@@ -8,11 +8,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "CV"
-    url: /cv/
+    url: /_pages/my_cv.pdf
+    
+  - title: "Personal Skills"
+    url: /teaching/    
   # - title: "Talks"
   #   url: /talks/    
 
